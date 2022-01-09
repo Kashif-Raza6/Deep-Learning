@@ -136,3 +136,4 @@ To Print a tring ` print("Hello! Kashif Raza")`
 
 
 # 13- Install Extensions
+Installed the Extensions
